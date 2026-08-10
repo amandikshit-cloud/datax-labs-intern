@@ -1,4 +1,4 @@
-# DataX-intern
+# datax-labs-intern
 This repository is made for the purpose of sharing daily work progress to the DataX Labs project lead.
 <br>
 <table>
